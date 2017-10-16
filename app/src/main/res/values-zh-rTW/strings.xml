@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LanguageDemo</string>
+    <string name="english">英語</string>
+    <string name="zh_cn">簡體中文</string>
+    <string name="zh_tw">繁體中文</string>
+</resources>
