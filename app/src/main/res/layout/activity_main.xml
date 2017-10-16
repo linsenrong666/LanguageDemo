@@ -14,7 +14,7 @@
         android:textSize="18sp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
+        android:text="@string/text"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
@@ -27,12 +27,12 @@
         android:layout_height="wrap_content"/>
 
     <Button
-        android:id="@+id/zh-cn"
+        android:id="@+id/zh_cn"
         android:layout_width="wrap_content"
         android:text="@string/zh_cn"
         android:layout_height="wrap_content"/>
     <Button
-        android:id="@+id/zh-tw"
+        android:id="@+id/zh_tw"
         android:layout_width="wrap_content"
         android:text="@string/zh_tw"
         android:layout_height="wrap_content"/>
